@@ -1,5 +1,5 @@
 ---
-name: testskill
+name: Agentskill
 description: "A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities."
 metadata:
   version: "1.0.0"
